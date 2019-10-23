@@ -2,3 +2,8 @@
 Cards Template:
 https://medium.com/@anthonytapias/build-a-deck-of-cards-with-oo-python-c41913a744d3
 
+https://github.com/awgeezrick/Deck-of-Cards/blob/master/deck.py
+
+https://rosettacode.org/wiki/Playing_cards#Python_3:_extending_Poker_hand_analyser.23Python
+
+
